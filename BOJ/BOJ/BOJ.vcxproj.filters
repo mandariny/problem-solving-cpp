@@ -21,5 +21,20 @@
     <ClCompile Include="1039_교환.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="24524_아름다운_문자열.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="16441_아기돼지와_늑대.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="2831_댄스_파티.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="6597_트리_복구.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="4485_녹색_옷_입은_애가_젤다지.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
